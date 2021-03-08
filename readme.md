@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegocamilosilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocamilosilva/)](https://www.linkedin.com/in/diegocamilosilva/)
 [![Gmail Badge](https://img.shields.io/badge/-Contato.Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegocamilo021@gmail.com)](mailto:diegocamilo021@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-diego_silva-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diego_silva224/)](https://www.instagram.com/diego_silva224/)
+[![Instagram Badge](https://img.shields.io/badge/-diego_silva-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diego_silva224/)](https://www.instagram.com/silva_diego224/)
 
     
 ```php
@@ -23,7 +23,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Diegosny&show_icons=true&theme=tokyonight)
 <details>
-<summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <b> Um pouco sobre mim</b> <i>(Clique para ler mais)</i> </summary>
 
 ---
 
