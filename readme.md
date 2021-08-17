@@ -19,12 +19,6 @@
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
             </div>
         </td>
-        <td>
-            <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-            </div>
-        </td>
     </tr>
 </table>
   
@@ -35,7 +29,7 @@
   <a href="mailto:diegocamilo021@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
-  <a href="https://www.instagram.com/silva_diego22" target="_blank">
+  <a href="https://www.instagram.com/diego_silva22" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
@@ -58,4 +52,4 @@
 </table>
 
   
-![Snake animation](https://github.com/Diegosny/Diegosny/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg) 
