@@ -29,7 +29,7 @@
   <a href="mailto:diegocamilo021@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
-  <a href="https://www.instagram.com/diego_silva22" target="_blank">
+  <a href="https://www.instagram.com/silva_diego224" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
